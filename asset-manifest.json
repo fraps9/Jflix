@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Jflix/static/css/main.fdd8fb7d.css",
-    "main.js": "/Jflix/static/js/main.e99f5a6a.js",
+    "main.css": "/Jflix/static/css/main.9fc3f688.css",
+    "main.js": "/Jflix/static/js/main.03dfe1d4.js",
     "index.html": "/Jflix/index.html",
-    "main.fdd8fb7d.css.map": "/Jflix/static/css/main.fdd8fb7d.css.map",
-    "main.e99f5a6a.js.map": "/Jflix/static/js/main.e99f5a6a.js.map"
+    "main.9fc3f688.css.map": "/Jflix/static/css/main.9fc3f688.css.map",
+    "main.03dfe1d4.js.map": "/Jflix/static/js/main.03dfe1d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdd8fb7d.css",
-    "static/js/main.e99f5a6a.js"
+    "static/css/main.9fc3f688.css",
+    "static/js/main.03dfe1d4.js"
   ]
 }
