@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jflix/static/css/main.8d668487.css",
+    "main.js": "/Jflix/static/js/main.e99f5a6a.js",
+    "index.html": "/Jflix/index.html",
+    "main.8d668487.css.map": "/Jflix/static/css/main.8d668487.css.map",
+    "main.e99f5a6a.js.map": "/Jflix/static/js/main.e99f5a6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d668487.css",
+    "static/js/main.e99f5a6a.js"
+  ]
+}
